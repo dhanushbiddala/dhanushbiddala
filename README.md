@@ -1,6 +1,4 @@
-greater seattle area
-swe
-purdue 26'
+swe | greater seattle area | purdue 26' 
 
 <!---
 dhanushbiddala/dhanushbiddala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
